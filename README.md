@@ -41,8 +41,8 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
 ## Program:
 ```
-Developed by: Sham Rathan.S
-RegisterNumber: 212221230093
+Developed by: Sai Darshan G
+RegisterNumber: 212221240047
 ```
 ### Half Subtractor:
 ```
